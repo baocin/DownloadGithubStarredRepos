@@ -22,3 +22,5 @@ GITHUB_TOKEN="REPLACE THIS" python collect.py "github username"
 ]
 ```
 
+Created using python 3.9 on M2 Macbook
+
