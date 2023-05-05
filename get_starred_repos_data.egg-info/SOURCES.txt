@@ -1,0 +1,7 @@
+README.md
+setup.py
+get_starred_repos_data.egg-info/PKG-INFO
+get_starred_repos_data.egg-info/SOURCES.txt
+get_starred_repos_data.egg-info/dependency_links.txt
+get_starred_repos_data.egg-info/requires.txt
+get_starred_repos_data.egg-info/top_level.txt

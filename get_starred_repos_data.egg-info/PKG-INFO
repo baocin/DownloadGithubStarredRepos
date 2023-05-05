@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: get-starred-repos-data
+Version: 1.0
+Summary: Get starred repos data from Github
+Author: Michael Pedersen
+Author-email: michael@steele.red
